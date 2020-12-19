@@ -1,2 +1,6 @@
-# IS211_Assignment4
-Assignment 4 using Python 3.5.2
+## System Specs
+* Ryzen 7 Processor 8 Core Processor x 16
+* 16 GB RAM
+* SSD Drive
+* Radeon 550 Series GPU
+
